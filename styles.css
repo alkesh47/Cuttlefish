@@ -1,0 +1,10 @@
+*{
+  margin: 10px;
+  padding: 5px
+}
+
+#myCanvas{
+  background-color: #000000;
+  margin: 0 auto;
+  display: block;
+}
